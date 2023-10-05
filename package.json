@@ -1,0 +1,23 @@
+{
+  "name": "tees-cypress-intro-wellwellgabriel",
+  "version": "0.0.0",
+  "description": "Projeto Unidade 1 - Topicos Especiais Eng de Software 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uepb-tees/tees-cypress-intro-wellwellgabriel.git"
+  },
+  "author": "Gabriel Batista dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uepb-tees/tees-cypress-intro-wellwellgabriel/issues"
+  },
+  "homepage": "https://github.com/uepb-tees/tees-cypress-intro-wellwellgabriel#readme",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
